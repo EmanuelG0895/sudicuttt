@@ -1,0 +1,24 @@
+.btn_crear{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+    background: #46B593;
+}
+
+.color_nav{
+    background-color: #0FA0C0;
+}
+
+.titulo_nav{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+}

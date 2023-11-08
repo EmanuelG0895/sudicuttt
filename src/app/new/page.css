@@ -1,0 +1,29 @@
+.contenedor_formulario {
+}
+
+.row {
+    margin-top: 20px !important;
+}
+.form {
+    background-color: #0FA0C0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 15px;
+}
+.boton{
+    background-color:#46B593;
+    width: 50%;
+    height: 50px;
+    border-radius: 20px;
+}
+.btn_enviar{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.editar_tarea{
+    margin-bottom: 20px;
+    color: #ffffff;
+}

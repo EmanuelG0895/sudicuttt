@@ -1,0 +1,32 @@
+.btn_editar{
+    background-color:#46B593;
+    height: 25px;
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.btn_eliminar{
+  background-color: #ed4152;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 25px;
+  width: 50%;
+  border-radius: 5px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.tarea{
+  background-color: #0FA0C0;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
+
+.container_btn{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
